@@ -1,0 +1,44 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.text {
+  text-align: left;
+}
+
+.text h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  text-shadow: 4px 4px 12px rgba(0,0,0,0.3)
+}
+
+
+.text p {
+  color: white;
+  opacity: .9;
+  font-size: 20px;
+  text-shadow: 4px 4px 12px rgba(0,0,0,0.3)
+}
+
+h1 h2 h3 h4 {
+  font-family: Poppins;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  color: grey;
+  opacity: .9;
+  font-size: 20px;
+}
+
